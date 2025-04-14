@@ -8,4 +8,4 @@ const bookSchema = new mongoose.Schema({
     available: { type: Boolean, default: true }
 });
 
-module.exports = mongoose.model('Book', bookSchema);
+module.exports = mongoose.model('Lorem_ipsum_dolor_sit_amet,_consectetuer_adipiscing_elit._Aenean_commodo_ligula_e', bookSchema);
